@@ -9,3 +9,7 @@ Things to work on 2nd QTR --->
 1. Kafka
 2. Docker
 3. Kubernetics
+
+
+System Design (HLD) => Scaler
+Project focus on DE as per note, need to create a note.
