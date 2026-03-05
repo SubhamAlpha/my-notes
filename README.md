@@ -8,7 +8,7 @@ Things to work on 2nd QTR --->
 
 1. Kafka
 2. Docker
-3. Kubernetics
+3. Kubernetics => Certifications, utube for knowledge.
 
 
 System Design (HLD) => Scaler
