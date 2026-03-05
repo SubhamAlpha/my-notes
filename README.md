@@ -23,4 +23,6 @@ Few files need to be created =>
 SoftSkills ==>
 1. Need to list books.
 2. Need to list youtube channels -> MITMonk
+
+** List down all of the companies you want to apply.
    
