@@ -25,4 +25,6 @@ SoftSkills ==>
 2. Need to list youtube channels -> MITMonk
 
 ** List down all of the companies you want to apply.
+
+** List down all the takeways of a book in a A4 sheet.
    
