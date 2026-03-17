@@ -9,7 +9,7 @@ Things to work on 2nd QTR --->
 1. Kafka
 2. Docker => 1st QTR, 15th March to 31st March.
 3. Kubernetics => Certifications, utube for knowledge.
-4. Terraform => 1st QTR, 1st Feb to 15th March
+4. Terraform => 1st QTR, 1st Feb to 15th March = Done
 
 
 System Design (HLD) => Scaler
