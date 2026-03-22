@@ -1,0 +1,7 @@
+Kubernetics Installation:
+https://kubernetes.io/docs/tasks/tools/install-kubectl-macos/#install-with-homebrew-on-macos
+
+minikube is local Kubernetes, focusing on making it easy to learn and develop for Kubernetes.
+https://minikube.sigs.k8s.io/docs/start/?arch=%2Fmacos%2Farm64%2Fstable%2Fbinary+download
+
+kubectl create deployment (Name)my-nginx --image nginx:latest
